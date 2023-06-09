@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+}
+.container{
+    justify-content: center;
+    height: 550px;
+    width: 800px;
+    border: 5px solid black;
+    background-color: rgb(244, 244, 244);
+    text-align: center;
+}
+.inputBox{
+    width: auto;
+    display: grid;
+    top: 0;
+    text-align: left;
+}
+.inputBox ul{
+    margin-top: 30px;
+    
+}
